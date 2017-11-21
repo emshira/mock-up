@@ -1,0 +1,132 @@
+.left-nav {
+  left: 0;
+  top: -10px;
+  bottom: 0;
+  width: 72px;
+  position: absolute;
+  height: 1253px !important;
+  background:#2F373F;
+
+}
+
+.left-nav {
+    display: block;
+    text-align: center;
+    /*z-index: -1;*/*/
+    text-align: center;
+    padding: 1em;
+}
+
+.nav-item {
+  margin-bottom: 36px
+
+}
+
+.search-bar {
+  margin-left: 40px;
+}
+
+/*for search bar*/
+.with-border{
+  border-radius: 15px;
+}
+
+.search-icons {
+  margin-left: 60px;
+  list-style: none;
+  }
+
+.drop-box {
+      margin-left: 90px;
+  }
+
+.search-nav-item {
+  float: left;
+  padding-left: 0.5em;
+}
+
+/* moves 24 challenges over to the right */
+p2 {
+  margin-left: 30px;
+}
+
+.cat-challenges {
+  float: left;
+  display: flex;
+  flex-direction: row;
+  color: gray;
+
+}
+
+.btn-btn-btn-secondary {
+    color: #868e96;
+    background-color: #f2f3f505;
+    border-color: #fff;
+
+}
+
+/*triple button with rating and rank*/
+.btn-btn-secondary {
+    color: #818182;
+    background-color: #f2f3f505;
+    border-color: #868e96;
+    border-radius: 2px;
+    width: 120px;
+    height: 70px;
+}
+
+.course-desc {
+  padding: 50px;
+}
+
+/* callenge track button top right in header block */
+.btn-btn-outline-secondary-challenge-track {
+    margin-left: 205px;
+    margin-top: 46px;
+    border-radius: 0.5rem;
+    width: 150px;
+}
+
+nav, .navbar, .navbar-expand-lg, .navbar-light{
+  background-color: #fff;
+}
+
+.card {
+  margin-bottom: 15px;
+}
+
+.button-footer {
+  display: flex;
+}
+
+.right {
+  margin-left: 150px;
+}
+
+.track-categories {
+  margin-left: 100px;
+}
+
+.btn.btn-outline-success{
+ border-radius: 2rem;
+ margin: 20px;
+}
+
+
+.btn-track-categories-circle{
+  text-align: center;
+  margin-left: 130px;
+}
+
+.track-categories-names{
+  margin-right: 20px;
+
+}
+
+.with-border2{
+  width: 200px
+}
+
+.course-info{
+  background-color: #F8F9FB;
+}
